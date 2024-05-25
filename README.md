@@ -1,6 +1,4 @@
-# code-casa-project
-# this is a portfolio website
-# this is code casa internship first project
+# This is a portfolio website
 # In this projet use html css and javascript
-# make this project responsiv media quary 
-# this is my first project on git-hub  
+# make this project responsiv using media query 
+
